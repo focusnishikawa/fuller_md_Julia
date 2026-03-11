@@ -125,7 +125,7 @@ Angstrom (length), amu (mass), eV (energy), fs (time), K (temperature), GPa (pre
 
 ## License
 
-Same as the original [fuller_md](https://github.com/focusnishikawa/fuller_md) project.
+This project is licensed under the [BSD 3-Clause License](LICENSE).
 
 ## Other Versions
 

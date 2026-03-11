@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: BSD-3-Clause
+# Copyright (c) 2025, Takeshi Nishikawa
 #=============================================================================
   fuller_airebo_npt_md.jl — Fullerene Crystal NPT-MD (AIREBO: REBO-II + LJ)
   Portable CPU/GPU version using JACC.jl

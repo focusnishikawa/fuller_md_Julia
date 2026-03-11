@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: BSD-3-Clause
+# Copyright (c) 2025, Takeshi Nishikawa
 #=============================================================================
   FullerMD.jl — Shared module for Fullerene NPT-MD simulations
   Constants, utility functions, I/O, crystal builders, neighbor lists.

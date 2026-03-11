@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: BSD-3-Clause
+# Copyright (c) 2025, Takeshi Nishikawa
 #=============================================================================
   fuller_LJ_npt_mmmd.jl — Fullerene Crystal NPT-MD
   (Molecular Mechanics Force Field + LJ Intermolecular)

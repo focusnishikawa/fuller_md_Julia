@@ -1,4 +1,6 @@
 #!/usr/bin/env julia
+# SPDX-License-Identifier: BSD-3-Clause
+# Copyright (c) 2025, Takeshi Nishikawa
 # One-time setup script for fuller_md_Julia
 # Usage: julia setup.jl [backend]
 #   backend: threads (default), cuda, amdgpu, oneapi

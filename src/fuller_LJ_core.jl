@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: BSD-3-Clause
+# Copyright (c) 2025, Takeshi Nishikawa
 #=============================================================================
   fuller_LJ_core.jl — C60 Fullerene Crystal NPT-MD (Core LJ rigid-body)
   Portable CPU/GPU version using JACC.jl
