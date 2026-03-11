@@ -126,3 +126,12 @@ Angstrom (length), amu (mass), eV (energy), fs (time), K (temperature), GPa (pre
 ## License
 
 Same as the original [fuller_md](https://github.com/focusnishikawa/fuller_md) project.
+
+## Other Versions
+
+| Repository | Language | Description |
+|-----------|----------|-------------|
+| [fuller_md](https://github.com/focusnishikawa/fuller_md) | C++ (Japanese) | C++ version, Japanese |
+| [fuller_md_en](https://github.com/focusnishikawa/fuller_md_en) | C++ (English) | C++ version, English |
+| [fuller_md_Julia](https://github.com/focusnishikawa/fuller_md_Julia) | Julia (English) | This repository |
+| [fuller_md_Julia_ja](https://github.com/focusnishikawa/fuller_md_Julia_ja) | Julia (Japanese) | Julia version, Japanese |
