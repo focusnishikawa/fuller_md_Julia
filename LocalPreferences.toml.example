@@ -1,0 +1,8 @@
+# Copy this file to LocalPreferences.toml and set your backend:
+#   "threads" - CPU multi-threading (default)
+#   "cuda"    - NVIDIA GPU (requires CUDA.jl)
+#   "amdgpu"  - AMD GPU (requires AMDGPU.jl)
+#   "oneapi"  - Intel GPU (requires oneAPI.jl)
+
+[JACC]
+backend = "threads"

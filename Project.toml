@@ -1,0 +1,12 @@
+[project]
+name = "fuller_md_Julia"
+uuid = "a1b2c3d4-e5f6-7890-abcd-ef1234567890"
+version = "1.0.0"
+
+[deps]
+JACC = "0a657a82-1b5a-442b-8695-642e8d7f1146"
+Printf = "de0858da-6303-5e67-8744-51gy5781d9e6"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+
+[compat]
+julia = "1.9"

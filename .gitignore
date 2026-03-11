@@ -1,0 +1,8 @@
+Manifest.toml
+LocalPreferences.toml
+*.jl.mem
+.DS_Store
+*.xyz
+*.rst
+abort.md/
+stop.md/
