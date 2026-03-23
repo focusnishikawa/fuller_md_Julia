@@ -135,3 +135,5 @@ This project is licensed under the [BSD 3-Clause License](LICENSE).
 | [fuller_md_en](https://github.com/focusnishikawa/fuller_md_en) | C++ (English) | C++ version, English |
 | [fuller_md_Julia](https://github.com/focusnishikawa/fuller_md_Julia) | Julia (English) | This repository |
 | [fuller_md_Julia_ja](https://github.com/focusnishikawa/fuller_md_Julia_ja) | Julia (Japanese) | Julia version, Japanese |
+| [fuller_md_fortran](https://github.com/focusnishikawa/fuller_md_fortran) | Fortran 95 (Japanese) | Fortran version, Japanese |
+| [fuller_md_fortran_en](https://github.com/focusnishikawa/fuller_md_fortran_en) | Fortran 95 (English) | Fortran version, English |
